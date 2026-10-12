@@ -168,7 +168,7 @@ const List<Gadget> daftarGadget = [
   ),
   Gadget(
     nama: 'Wireless Earbuds',
-    kategori: 'Aksesori',
+    kategori: 'Aksesoris',
     harga: 750000,
     deskripsi: 'Earbuds nirkabel dengan suara jernih untuk menemani aktivitas.',
     gambar:
